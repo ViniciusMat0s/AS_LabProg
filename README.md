@@ -1,6 +1,6 @@
 ### Os 4 pilares da Programação Orientada a Objetos
 
-<br>### Abstração: 
+### Abstração: 
 <br>Reduzir a complexidade do projeto e deixá-lo mais eficiente em questão de aplicação;
 
 <br>### Encapsulamento: 
