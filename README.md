@@ -1,10 +1,10 @@
-### Os 4 pilares da Programação Orientada a Objetos
+## Os 4 pilares da Programação Orientada a Objetos
 
-#### Abstração: 
+### Abstração: 
 Reduzir a complexidade do projeto e deixá-lo mais eficiente em questão de aplicação;
-#### Encapsulamento: 
+### Encapsulamento: 
 Processo de proteger membros de uma classe utilizando modificadores de acesso;
-#### Herança: 
+### Herança: 
 Conceito de herdar métodos e atributors de uma classe base;
-#### Polimorfismo: 
+### Polimorfismo: 
 Criar várias formas para a mesma coisa.
