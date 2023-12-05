@@ -17,4 +17,5 @@ Criar várias formas para a mesma coisa.
 Utilizado na classe Biblioteca, em métodos de sobrecarga.
 <br>
 <br>
+---
 Código criado para a Avaliação Semestral de Laboratório de Programação, Ulbra 2023/2.
