@@ -4,10 +4,10 @@
 Reduzir a complexidade do projeto e deixá-lo mais eficiente em questão de aplicação;
 
 #### Encapsulamento: 
-<br>Processo de proteger membros de uma classe utilizando modificadores de acesso;
+Processo de proteger membros de uma classe utilizando modificadores de acesso;
 
 #### Herança: 
-<br>Conceito de herdar métodos e atributors de uma classe base;
+Conceito de herdar métodos e atributors de uma classe base;
 
 #### Polimorfismo: 
-<br>Criar várias formas para a mesma coisa.
+Criar várias formas para a mesma coisa.
