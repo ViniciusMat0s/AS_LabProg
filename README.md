@@ -1,3 +1,14 @@
+# Sistema de biblioteca
+#### Curso/Cadeira: Laboratório de Programação, Ulbra Torres 2023/02.
+
+Projeto semestral de um sistema de bibliotecas que adiciona, remove, filtra os livros e mostra suas informações.
+
+### Tecnologias utilizadas:
+
+<img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)">
+<br>
+<br>
+
 ## Os 4 pilares da Programação Orientada a Objetos
 
 ### Abstração: 
